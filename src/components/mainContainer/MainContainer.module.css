@@ -1,0 +1,15 @@
+.Wrapper {
+  display: flex;
+  justify-content: center;
+}
+
+.Container {
+  width: 50%;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  padding: 25px 50px;
+  border-radius: 15px;
+  box-shadow: 6px 6px 15px red, -10px -9px 12px rgb(188, 188, 188);
+  background-color: rgb(225, 225, 225);
+}

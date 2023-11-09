@@ -1,0 +1,14 @@
+.Footer {
+  padding: 15px;
+  display: flex;
+  justify-content: center;
+  background-color: rgb(157, 157, 157);
+}
+
+.Link {
+  all: unset;
+  cursor: pointer;
+  background-color: white;
+  padding: 7px 14px;
+  border-radius: 6px;
+}

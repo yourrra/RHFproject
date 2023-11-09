@@ -1,0 +1,17 @@
+:root {
+  --colors-dark: #111212;
+  --colors-special: #d476f8;
+  --font-primary: 'Poiret One', sans-seri;
+  --font-secondary: 'Yesteryear', cursive;
+}
+
+html {
+  color: var(--colors-dark);
+  font-family: var(--font-primary);
+  font-size: 18px;
+  line-height: 26px;
+}
+
+body {
+  background-color: rgb(212, 212, 212);
+}
